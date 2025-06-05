@@ -30,7 +30,7 @@ streamlit run streamlit_app.py
 - `README.md` – Project guide
 
 ## 📚 Learn More
-Check out the accompanying guide to understand the math behind the model in simple terms: [ChatGPT Explained Simple](https://github.com/your-username/your-repo/blob/main/Chatgpt%20Explained%20Simple.md)
+Check out the accompanying guide to understand the math behind the model in simple terms: [ChatGPT Explained Simple](https://github.com/pkalyampudi/mini-transformer.git)
 
 ## 🧑‍💻 Author (Poornachand Kalyampudi)
 Built with ❤️ for learners and educators.
